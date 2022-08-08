@@ -39,3 +39,6 @@ To be added ...........
 * [Spatial Analysis & Geospatial Data Science in Python](https://www.udemy.com/course/spatial-data-science-in-python/)
 
 To be added ...........
+
+# Invitation for collaborators:
+Please feel free to contribute to the document. Let's try bring the spatial data science contents together so that it would be easier for every one to learn and share the knowledge.
