@@ -1,4 +1,4 @@
-# Awesome Spatial Data Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Spatial Data Science [![Awesome](https://awesome.re/badge.svg)](https://kaflekrishna.com.np)
 We will try to bring up the information related to the spatial data science together in this page.
 
 # Masters Course:
