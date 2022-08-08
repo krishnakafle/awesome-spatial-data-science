@@ -11,3 +11,10 @@ We will try to bring up the information related to the spatial data science toge
 * [University College London](https://www.ucl.ac.uk/bartlett/casa/study/msc-spatial-data-science-and-visualisation) - MSc Spatial Data Science and Visualisation
 
 To be added ...........
+
+# Books:
+To be added ...........
+
+
+# Online courses:
+To be added ...........
